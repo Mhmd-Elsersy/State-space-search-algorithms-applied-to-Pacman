@@ -33,3 +33,8 @@ This file describes several supporting types like AgentState, Agent, Direction, 
 
 + All the code is written in python 2.7, so you might consider creating a separate environment if you'r using Python 3 on your system.
 To be able to create an environment head to [Anaconda](https://anaconda.org/).
+
+
+## License
+
+Berkeley.
