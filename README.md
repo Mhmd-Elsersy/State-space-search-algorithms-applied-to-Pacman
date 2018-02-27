@@ -16,7 +16,7 @@ To see it in action, check the full list of commands in
 
 ## Table of contents
 
-There are two main files:
+There are 5 main files:
 
 + A file where all of the search algorithms reside, **search.py**.
 
